@@ -37,7 +37,7 @@ Screenshot 2: GitHub Copilot Status
 
 Evidence showing GitHub Copilot enabled inside IntelliJ IDEA.
 
-![Screenshot 2026-10-21 at 2.10.29 PM.png](screenshots/Screenshot%202026-10-21%20at%202.10.29%E2%80%AFPM.png)[Insert Screenshot Here]
+![Screenshot 2026-10-21 at 2.10.29 PM.png](screenshots/Screenshot%202026-10-21%20at%202.10.29%E2%80%AFPM.png)
 
 Screenshot 3: Inline Ghost Text Suggestion
 
@@ -49,4 +49,4 @@ Screenshot 4: GitHub Copilot Chat Explanation
 
 Evidence showing the Copilot Chat /explain response for the factorial method.
 
-![Screenshot 2026-10-21 at 2.03.15 PM.png](screenshots/Screenshot%202026-10-21%20at%202.03.15%E2%80%AFPM.png)[Insert Screenshot Here]
+![Screenshot 2026-10-21 at 2.03.15 PM.png](screenshots/Screenshot%202026-10-21%20at%202.03.15%E2%80%AFPM.png)

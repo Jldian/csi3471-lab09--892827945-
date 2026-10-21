@@ -3,3 +3,8 @@ target/
 .idea/
 *.iml
 .DS_Store
+target/
+*.class
+.idea/
+*.iml
+.DS_Store
